@@ -1,5 +1,7 @@
 👋 Hi, I’m Kavita Shantiwal  
 
+https://kavita-shantiwal.github.io/Kavita.github.io/
+
 🚀 **Data Scientist | Machine Learning Engineer | AI Enthusiast**  
 
 I’m passionate about turning data into intelligent solutions that create real-world impact. With more than 2 years hands-on experience in **Machine Learning, AI, and Data Visualization**, I enjoy solving complex problems using Python, Scikit-learn, and Power BI.  
